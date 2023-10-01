@@ -1,3 +1,8 @@
+// input format :   1x^2-4x-10=0
+//                  5 6
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
